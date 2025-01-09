@@ -1,6 +1,12 @@
-# notes_app
+# Short-Notes-App
 
-A new Flutter project.
+A simple note-taking application built with Flutter. This app allows users to create, edit, and delete notes.
+
+## Features
+- Create Notes: Users can create a new note with a title and description.
+- Edit Notes: Users can modify existing notes.
+- Delete Notes: Users can delete notes from the list.
+
 
 ## Getting Started
 
